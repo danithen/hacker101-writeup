@@ -55,6 +55,6 @@ We commited /home/user/.local/share/gem/ruby/3.2.0/bin to the PATH variable. PAT
 `bundle exec jekyll serve`
 ### Browse to:
 `http://localhost:4000`
-## Next Up: [Lesson 1]()
+## Next Up: [Lesson 1](https://github.com/danithen/hacker101-writeup/blob/review/lesson-1.md)
 ### Lessons Learned:
 During this setup process I learned quite a bit about a lot topics. This was my first experience with AUR, packaging and installing non official repositories will definitely be useful down the line. I spent quite a long time reading the ARCH wiki, this really helped guide me. One of the most frustrating parts of this process was my installed gems not runniung. It took me quite a while to figure out that my big issue was actaully really easy to fix, and after a few wiki articles it was fixed. Jekyll was also a new concept to me so I decided to do a bit of research into it, and it is basically a static site generator for blogs that uses ruby. 
