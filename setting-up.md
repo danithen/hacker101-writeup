@@ -3,7 +3,7 @@ If you want to skip this step navigate [to the hacker101 website.](https://www.h
 **I will be using Manjaro KDE, an Arch Linux based distribution, commands may be different on your machine**  <br>
 Follow along [here](https://github.com/Hacker0x01/hacker101?tab=readme-ov-file)
 ## Prerequisites:
-git: <br>
+### git: <br>
 To install git on Arch Linux distributions run: `sudo pacman -S git`
 ## Getting started:
 The hacker101 course has the option for the user to clone the github repo and run the website locally using Ruby and the bundler gem. I chose this option because I have no experience with Ruby, Rubygems, Arch User Repositories. 
@@ -22,7 +22,7 @@ explore the [wiki](https://aur.archlinux.org/) or take a look at my basic crash 
 `makepkg`
 ### Copy the tar.zst file, and run:
 `sudo pacman -U rbenv-1.2.0-1-any.pkg.tar.zst`
-## Prequisites:
+## More Prequisites:
 Before we can install ruby we need to install the [ruby-build](https://aur.archlinux.org/packages/ruby-build) dependency. Follow the same steps we used to install rbenv, clone this into the AUR directory. <br>
 **We also need to make sure we have some basic tools:** <br>
 `sudo pacman -S base-devel`
