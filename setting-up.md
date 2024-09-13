@@ -51,7 +51,11 @@ Did you get this warning? WARNING:You don't have /home/user/.local/share/gem/rub
 #### What did we just do?
 We commited /home/user/.local/share/gem/ruby/3.2.0/bin to the PATH variable. PATH is the set of directories that the system looks through when you try to run an executable. The error we got earlier was simply saying that the directory where the gems were stored was not apart of our PATH, so the gems we install would not be executable.
 ## Booting up our Hacker101 server:
-### Simply Run:
+### Clone the hacker101 repository:
+`git clone https://github.com/Hacker0x01/hacker101.git`
+### In the new hacker101 directory run:
+`bundle install`
+### Finally Run:
 `bundle exec jekyll serve`
 ### Browse to:
 `http://localhost:4000`
