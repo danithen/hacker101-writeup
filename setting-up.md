@@ -1,3 +1,4 @@
+#Getting Setup
 If you want to skip this step navigate to https://www.hacker101.com/start-here 
 **For the vast majority of this write-up I will be using Manjaro KDE, an Arch Linux based distribution, commands may be different on your machine**
 Follow along here: https://github.com/Hacker0x01/hacker101?tab=readme-ov-file
