@@ -10,8 +10,8 @@ The hacker101 course has the option for the user to clone the github repo and ru
 ## Setting up rbenv:
 Follow along here: https://github.com/rbenv/rbenv  <br>
 rbenv is a version manager for ruby, we will use it to setup and manage our ruby apps and version.
-Because I am on an arch linux distribution, rbenv does not have an official repository, instead we will need to use Arch User Repositories (AUR). If you want to learn more about AUR you can either 
-explore the [wiki](https://aur.archlinux.org/) or take a look at my basic crash course [here.](https://github.com/danithen/AUR-crashcourse) Let's get started. <br>
+Because I am on an arch linux distribution, rbenv does not have an official repository, instead we will need to use Arch User Repositories (AUR). If you want to learn more about AUR you can 
+explore the [wiki](https://aur.archlinux.org/). Let's get started. <br>
 ### Make a new subdirectory in your home directory: <br>
 `mkdir AUR` <br>
 ### Clone the rbenv git into your AUR directory: 
